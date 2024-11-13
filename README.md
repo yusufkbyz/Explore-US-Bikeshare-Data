@@ -1,6 +1,6 @@
 # Explore US Bikeshare Data
 
-This project involves working with huge datasets from [Bikeshare US](https://divvybikes.com/system-data) with around 300,000 rows using pandas. It gets as well as validates input from the user and pulls data based on that input, within milliseconds.
+This project involves working with big datasets from [Bikeshare US](https://divvybikes.com/system-data) with around 300,000 rows using pandas. It gets as well as validates input from the user and pulls data based on that input, within milliseconds.
 
 Pandas was used over manual parsing or SQL as it's by far the fastest out of those options and any other.
 
